@@ -10,5 +10,7 @@ package javaapplication19;
  * @author brida
  */
 public class Tables {
-    
+    private Boolean state;
+    private Long id;
+    private Integer table;
 }

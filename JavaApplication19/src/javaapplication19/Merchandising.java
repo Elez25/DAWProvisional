@@ -5,17 +5,11 @@
  */
 package javaapplication19;
 
-import java.util.ArrayList;
-
 /**
  *
  * @author brida
  */
-public class Users {
-    private int type;//0 NR, 1 R, 2 A
-    private String name;
-    private Long tlf;
-    private String email;
-    private ArrayList<Merchandising> shopping_cart;
-    
+public class Merchandising {
+    private Double price;
+            
 }
