@@ -4314,7 +4314,7 @@ a.shipping-calculator-button:hover {
 .event{
     display: flex;
     justify-content: center;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
 }
 
 .eventTitlePicture{
@@ -4347,14 +4347,19 @@ a.shipping-calculator-button:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+    text-align: left;
     border-top: solid;
 }
 
 .eventImage{
     width: 90%;
     height: 90%;
-    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.event img{
+    height: 200px;
 }
 
 
