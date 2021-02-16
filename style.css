@@ -39,6 +39,7 @@
   26. Our Cart Area
   27. Our Checkout Page
   28. portfolio style
+  29. envent style
 
 
 -----------------------------------------------------------------------------------*/
@@ -4300,8 +4301,66 @@ a.shipping-calculator-button:hover {
 }
 
 
+/*---------------------------------------
+  29. Event
+----------------------------------------*/
+.eventContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.event{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3em;
+}
+
+.eventTitlePicture{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    border-top: solid;
+    
+    
+    
+}
 
 
+.eventTitle{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+
+.eventDescription {
+    
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    border-top: solid;
+}
+
+.eventImage{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.event img{
+    height: 200px;
+}
 
 
 

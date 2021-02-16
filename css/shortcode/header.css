@@ -38,8 +38,25 @@
   padding: 0 20px;
   position: relative;
 }
+
+.logo{
+  width: 170%;
+}
 .logo a{
   display: block;
+}
+.logo h1{
+  font-size: 20px;
+}
+
+.logoImage{
+  margin: 0%;
+  border-right-style: solid;
+}
+
+.pageTitle{
+  padding: 0.5em;
+
 }
 .mainmenu__area {
   left: 0;
