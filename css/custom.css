@@ -100,3 +100,52 @@
   padding-left: 15%;
   width: 90%;
 }
+
+.left-aligned {
+  text-align: left;
+}
+
+.center-aligned {
+  text-align: center;
+}
+
+.right-float {
+  text-align: right;
+  float: right;
+}
+
+.title__line {
+  font-weight: bolder;
+}
+
+.availab {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.event-img {
+  float: left;
+  width: 500px;
+  margin: 30px 30px 30px 30px;
+  border-radius: 25px;
+}
+
+.img-item {
+  display: inline;
+  margin: 20px;
+}
+
+.event-small-img {
+  width: 15%;
+  vertical-align: top;
+  border-radius: 15px;
+}
+
+.date {
+    margin: 25px;
+    display: inline;
+}
+
+.more-images {
+  margin: -50px 20px 20px 70px
+}
